@@ -1413,10 +1413,6 @@ focus = {
 			var = AUH_corruption_var
 			value = 0.04
 		}
-		add_to_variable = {
-			var = AUH_corruption_var
-			value = 0.04
-		}
 		set_variable = {
 			var = AUH_corruption_var_plain
 			value = AUH_corruption_var
